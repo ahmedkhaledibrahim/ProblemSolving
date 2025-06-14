@@ -1,0 +1,14 @@
+D:\.net\ProblemSolving\ProblemSolving\bin\Debug\net9.0\ProblemSolving.exe
+D:\.net\ProblemSolving\ProblemSolving\bin\Debug\net9.0\ProblemSolving.deps.json
+D:\.net\ProblemSolving\ProblemSolving\bin\Debug\net9.0\ProblemSolving.runtimeconfig.json
+D:\.net\ProblemSolving\ProblemSolving\bin\Debug\net9.0\ProblemSolving.dll
+D:\.net\ProblemSolving\ProblemSolving\bin\Debug\net9.0\ProblemSolving.pdb
+D:\.net\ProblemSolving\ProblemSolving\obj\Debug\net9.0\ProblemSolving.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\ProblemSolving\ProblemSolving\obj\Debug\net9.0\ProblemSolving.AssemblyInfoInputs.cache
+D:\.net\ProblemSolving\ProblemSolving\obj\Debug\net9.0\ProblemSolving.AssemblyInfo.cs
+D:\.net\ProblemSolving\ProblemSolving\obj\Debug\net9.0\ProblemSolving.csproj.CoreCompileInputs.cache
+D:\.net\ProblemSolving\ProblemSolving\obj\Debug\net9.0\ProblemSolving.dll
+D:\.net\ProblemSolving\ProblemSolving\obj\Debug\net9.0\refint\ProblemSolving.dll
+D:\.net\ProblemSolving\ProblemSolving\obj\Debug\net9.0\ProblemSolving.pdb
+D:\.net\ProblemSolving\ProblemSolving\obj\Debug\net9.0\ProblemSolving.genruntimeconfig.cache
+D:\.net\ProblemSolving\ProblemSolving\obj\Debug\net9.0\ref\ProblemSolving.dll

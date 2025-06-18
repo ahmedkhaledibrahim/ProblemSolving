@@ -12,3 +12,4 @@ D:\.net\ProblemSolving\ProblemSolving\obj\Debug\net9.0\refint\ProblemSolving.dll
 D:\.net\ProblemSolving\ProblemSolving\obj\Debug\net9.0\ProblemSolving.pdb
 D:\.net\ProblemSolving\ProblemSolving\obj\Debug\net9.0\ProblemSolving.genruntimeconfig.cache
 D:\.net\ProblemSolving\ProblemSolving\obj\Debug\net9.0\ref\ProblemSolving.dll
+D:\.net\ProblemSolving\ProblemSolving\obj\Debug\net9.0\ProblemSolving.sourcelink.json

@@ -1,2 +1,2 @@
 ﻿
-Console.WriteLine(TwoSum.Execute([3,3],6));
+Console.WriteLine(LongestConsecutiveSequence.execute([0,3,7,2,5,8,4,6,0,1]));
